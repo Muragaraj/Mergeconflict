@@ -1,2 +1,2 @@
-city NAME:Bangulure
 
+city NAME:Bangulure
